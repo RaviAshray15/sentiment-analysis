@@ -21,12 +21,7 @@ A real-time sentiment analysis web app built using **Python**, **Streamlit**, an
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/sentiment-analysis.git
+git clone https://github.com/RaviAshray15/sentiment-analysis.git
 cd sentiment-analysis
-
-# Create virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-
-# Install required packages
 pip install -r requirements.txt
+streamlit run app.py
