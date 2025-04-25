@@ -1,5 +1,3 @@
-# sentiment-analysis
-
 # Sentiment Analysis App
 
 A real-time sentiment analysis web app built using **Python**, **Streamlit**, and **VADER**. This app analyzes any input text and classifies its sentiment as **Positive**, **Negative**, or **Neutral**, along with detailed sentiment scores.
